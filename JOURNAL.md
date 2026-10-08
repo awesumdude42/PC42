@@ -69,9 +69,7 @@ OK SO I JUST REALIZED THAT THE TERMINAL BLOCK IS FOR SPEAKERS TYSM AI MODE(came 
 
 ^^^ THIS WAS AI MODE TOO I NEED TO GET BETTER AT RESEARCH T-T HOLY LONG LINK OMG
 
-* Button:https://www.alibaba.com/product-detail/PB86-B0-Large-Cap-4Pin-Momentary_1601726928419.html
-
-^^^ these buttons look cool but idk if alibaba is good, ill do more research
+* Button: https://www.sparkfun.com/tactile-button-assortment.html
 
 as of writing this, we just need the battery and led! lets find some :)
 
