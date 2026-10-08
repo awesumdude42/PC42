@@ -8,7 +8,7 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Week 1 | Tier 2 | $65.00 |
+| Week 1 | Tier 3 | $100.00 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
@@ -17,10 +17,9 @@
 | [Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A](https://www.adafruit.com/product/3006) | To use the speaker | 2 | $5.95 | $11.90 | [Adafruit](https://www.adafruit.com/product/3006) |
 | [Adafruit Industries Speaker - 40mm Diameter - 4 Ohm 3 Watt](https://www.microcenter.com/product/612826/Speaker_-_40mm_Diameter_-_4_Ohm_3_Watt?storeID=195) | Output the alarms and PA | 2 | $5.95 | $11.90 | [Micro Center](https://www.microcenter.com/product/612826/Speaker_-_40mm_Diameter_-_4_Ohm_3_Watt?storeID=195) |
 | [INMP441](https://www.amazon.com/AEDIKO-Omnidirectional-Microphone-Precision-Sensitivity/dp/B0GYN3CHGN/ref=sr_1_4?crid=2PLP81T5OHJFY&dib=eyJ2IjoiMSJ9.7LDZVc1L8qDUDldw033ZSfy7Wk5cSqrBqh3WnvYdp1ECKIy4D6mc1-cJLR06tjInxMAlgG9GhAHM3b4AVq6muTwr8MHuopMNpl5U-Tno0taFFgoeUjWQ_J_qTDA8rPg6NhWmuUZD1fsfErwEFrjJNWEA2JPnY5W6P02eav5U_Phci8b1k3XKWBvQhzj3dNoYxCCNFE4Kyzu6nHlLyRhsZ6rBupaGC9Syjn4uQ04YJRanEHNRXclAADd8fZSr1GR6KGy-folW12spGOcGG5u0Aq8HW7Mw48Dqkbe0Mo8KVvg.Ui8KHewDh5BF64xcEeMfyWVaPY1sVp3bI_frRq3w4dw&dib_tag=se&keywords=INMP441&qid=1791440986&s=musical-instruments&sprefix=%2Cmi%2C159&sr=1-4&th=1) | the PA system | 1 | $6.99 | $6.99 | [Amazon](https://www.amazon.com/AEDIKO-Omnidirectional-Microphone-Precision-Sensitivity/dp/B0GYN3CHGN/ref=sr_1_4?crid=2PLP81T5OHJFY&dib=eyJ2IjoiMSJ9.7LDZVc1L8qDUDldw033ZSfy7Wk5cSqrBqh3WnvYdp1ECKIy4D6mc1-cJLR06tjInxMAlgG9GhAHM3b4AVq6muTwr8MHuopMNpl5U-Tno0taFFgoeUjWQ_J_qTDA8rPg6NhWmuUZD1fsfErwEFrjJNWEA2JPnY5W6P02eav5U_Phci8b1k3XKWBvQhzj3dNoYxCCNFE4Kyzu6nHlLyRhsZ6rBupaGC9Syjn4uQ04YJRanEHNRXclAADd8fZSr1GR6KGy-folW12spGOcGG5u0Aq8HW7Mw48Dqkbe0Mo8KVvg.Ui8KHewDh5BF64xcEeMfyWVaPY1sVp3bI_frRq3w4dw&dib_tag=se&keywords=INMP441&qid=1791440986&s=musical-instruments&sprefix=%2Cmi%2C159&sr=1-4&th=1) |
-| [Tactile Button assortment](https://www.sparkfun.com/tactile-button-assortment.html) | For human input | 1 | $5.95 | $5.95 | [Sparkfun](https://www.sparkfun.com/tactile-button-assortment.html) |
 | [2-Pack LiPo Battery Module, USB-C Rechargeable 1200mAh, 3.3V 5V USB Output](https://www.amazon.com/2-Pack-Battery-Module-Rechargeable-1200mAh/dp/B0GWZQFK8T/ref=sr_1_12?dib=eyJ2IjoiMSJ9.rEbRyvTDiszrO_5EQ7N1ows9asNbjnblzE_j9VdpZ40aTtT55M15vD1a1p1IXMJBagF_Fx0EbBMRhjwmN5YyBR4TvfnIw1hY1vezfThmneB15YCQnCP1hACdnT5j5JMSCCN6d3YZt2dayjWkRZP0x0sbSmLGydnmgM8tNGpIvTQMbr1CXXXWUU5-xw4Kv8UUCfnXDnhJ-TJz5frnEzfGD-Jho2viz08cEztfbXydsaI4W2D18or422n06v-e2yALCtp3gpyEPvxUELP0WyclvJiSOLzk13I2LKy_mP93jeQ.8HCD5NNeb3AHdG-cUQVfwb-w9dCw0PoChnoSjAPebKI&dib_tag=se&keywords=esp32%2Bbattery&qid=1791435098&sr=8-12&th=1) | to power both ESP32-C6's | 1 | $17.99 | $17.99 | [Amazon](https://www.amazon.com/2-Pack-Battery-Module-Rechargeable-1200mAh/dp/B0GWZQFK8T/ref=sr_1_12?dib=eyJ2IjoiMSJ9.rEbRyvTDiszrO_5EQ7N1ows9asNbjnblzE_j9VdpZ40aTtT55M15vD1a1p1IXMJBagF_Fx0EbBMRhjwmN5YyBR4TvfnIw1hY1vezfThmneB15YCQnCP1hACdnT5j5JMSCCN6d3YZt2dayjWkRZP0x0sbSmLGydnmgM8tNGpIvTQMbr1CXXXWUU5-xw4Kv8UUCfnXDnhJ-TJz5frnEzfGD-Jho2viz08cEztfbXydsaI4W2D18or422n06v-e2yALCtp3gpyEPvxUELP0WyclvJiSOLzk13I2LKy_mP93jeQ.8HCD5NNeb3AHdG-cUQVfwb-w9dCw0PoChnoSjAPebKI&dib_tag=se&keywords=esp32%2Bbattery&qid=1791435098&sr=8-12&th=1) |
-| **Parts subtotal** | — | — | — | **$70.13** | — |
+| **Parts subtotal** | — | — | — | **$64.18** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$70.13** | — |
+| **Total** | — | — | — | **$64.18** | — |
 
-**$5.13 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$35.82 left of the tier's funding.
