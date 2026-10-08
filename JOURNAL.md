@@ -65,9 +65,9 @@ OK SO I JUST REALIZED THAT THE TERMINAL BLOCK IS FOR SPEAKERS TYSM AI MODE(came 
 
 ^^^ AI mode said it was loud(need to fact check later)
 
-* MIC: https://www.amazon.com/AITRIP-Omnidirectional-Microphone-Precision-Interface/dp/B092HWW4RS?th=1
+* MIC:https://www.amazon.com/AEDIKO-Omnidirectional-Microphone-Precision-Sensitivity/dp/B0GYN3CHGN/ref=sr_1_4?crid=2PLP81T5OHJFY&dib=eyJ2IjoiMSJ9.7LDZVc1L8qDUDldw033ZSfy7Wk5cSqrBqh3WnvYdp1ECKIy4D6mc1-cJLR06tjInxMAlgG9GhAHM3b4AVq6muTwr8MHuopMNpl5U-Tno0taFFgoeUjWQ_J_qTDA8rPg6NhWmuUZD1fsfErwEFrjJNWEA2JPnY5W6P02eav5U_Phci8b1k3XKWBvQhzj3dNoYxCCNFE4Kyzu6nHlLyRhsZ6rBupaGC9Syjn4uQ04YJRanEHNRXclAADd8fZSr1GR6KGy-folW12spGOcGG5u0Aq8HW7Mw48Dqkbe0Mo8KVvg.Ui8KHewDh5BF64xcEeMfyWVaPY1sVp3bI_frRq3w4dw&dib_tag=se&keywords=INMP441&qid=1791440986&s=musical-instruments&sprefix=%2Cmi%2C159&sr=1-4&th=1
 
-^^^ THIS WAS AI MODE TOO I NEED TO GET BETTER AT RESEARCH T-T
+^^^ THIS WAS AI MODE TOO I NEED TO GET BETTER AT RESEARCH T-T HOLY LONG LINK OMG
 
 * Button:https://www.alibaba.com/product-detail/PB86-B0-Large-Cap-4Pin-Momentary_1601726928419.html
 
