@@ -20,9 +20,8 @@
 | [2-Pack LiPo Battery Module, USB-C Rechargeable 1200mAh, 3.3V 5V USB Output](https://www.amazon.com/2-Pack-Battery-Module-Rechargeable-1200mAh/dp/B0GWZQFK8T/ref=sr_1_12?dib=eyJ2IjoiMSJ9.rEbRyvTDiszrO_5EQ7N1ows9asNbjnblzE_j9VdpZ40aTtT55M15vD1a1p1IXMJBagF_Fx0EbBMRhjwmN5YyBR4TvfnIw1hY1vezfThmneB15YCQnCP1hACdnT5j5JMSCCN6d3YZt2dayjWkRZP0x0sbSmLGydnmgM8tNGpIvTQMbr1CXXXWUU5-xw4Kv8UUCfnXDnhJ-TJz5frnEzfGD-Jho2viz08cEztfbXydsaI4W2D18or422n06v-e2yALCtp3gpyEPvxUELP0WyclvJiSOLzk13I2LKy_mP93jeQ.8HCD5NNeb3AHdG-cUQVfwb-w9dCw0PoChnoSjAPebKI&dib_tag=se&keywords=esp32%2Bbattery&qid=1791435098&sr=8-12&th=1) | to power both ESP32-C6's | 1 | $17.99 | $17.99 | [Amazon](https://www.amazon.com/2-Pack-Battery-Module-Rechargeable-1200mAh/dp/B0GWZQFK8T/ref=sr_1_12?dib=eyJ2IjoiMSJ9.rEbRyvTDiszrO_5EQ7N1ows9asNbjnblzE_j9VdpZ40aTtT55M15vD1a1p1IXMJBagF_Fx0EbBMRhjwmN5YyBR4TvfnIw1hY1vezfThmneB15YCQnCP1hACdnT5j5JMSCCN6d3YZt2dayjWkRZP0x0sbSmLGydnmgM8tNGpIvTQMbr1CXXXWUU5-xw4Kv8UUCfnXDnhJ-TJz5frnEzfGD-Jho2viz08cEztfbXydsaI4W2D18or422n06v-e2yALCtp3gpyEPvxUELP0WyclvJiSOLzk13I2LKy_mP93jeQ.8HCD5NNeb3AHdG-cUQVfwb-w9dCw0PoChnoSjAPebKI&dib_tag=se&keywords=esp32%2Bbattery&qid=1791435098&sr=8-12&th=1) |
 | [Buttons](https://www.adafruit.com/product/4431) | User input! | 1 | $7.50 | $7.50 | [Adafruit](https://www.adafruit.com/product/4431) |
 | [Button connector](https://www.peconnectors.com/female-headers-pcb-1x-row-.100/hws8519/) | So the buttons actually connect to the PCB | 5 | $0.33 | $1.65 | [Phoenix  Enterprises](https://www.peconnectors.com/female-headers-pcb-1x-row-.100/hws8519/) |
-| [2x7 Pin connectors](https://www.peconnectors.com/pin-headers-2x-row-2.0mm/hws8455/) | plugging ESP32 into PCB | 1 | $0.45 | $0.45 | [Phoenix  Enterprises](https://www.peconnectors.com/pin-headers-2x-row-2.0mm/hws8455/) |
-| **Parts subtotal** | — | — | — | **$61.88** | — |
+| **Parts subtotal** | — | — | — | **$61.43** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$61.88** | — |
+| **Total** | — | — | — | **$61.43** | — |
 
-$3.12 left of the tier's funding.
+$3.57 left of the tier's funding.
