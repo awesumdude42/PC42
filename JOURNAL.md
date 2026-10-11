@@ -361,4 +361,6 @@ So.... My brother has slept... I am on my own...
 
 so... I  CANNOT do this on my own. I'm just gonna have to figure out how to finish the case tomorrow. I'm tired, can't think, and I NEED SLEEP. I think I might have to ship with a half-finished case... I'll try and finish the case like on monday if I can't finish it tomorrow.  IM RLY SORRY HACK CLUB
 
+0.3 hours left
+
 [Timelapse](https://lookout.hackclub.com/api/media/553e9f69-2597-48c7-86f0-8511455aada4/video.mp4)
