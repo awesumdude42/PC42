@@ -14,6 +14,7 @@ Also known as the PC42, this device allows my parents my parents to call me down
 * Snooze button(stops working after snoozing a certain amount of times so I actually go down)
 
 
+## PCB
 
 The PCB is completely modular and only the neccessary parts can be plugged in for each module. This minimizes PCB cost :). The PCB is also hooked up to a 1200mAh LiPo battery and is USBC chargable.
 ![image](https://github.com/awesumdude42/PC42/blob/main/images/Kicad%20PCB.png)
